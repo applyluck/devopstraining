@@ -1,0 +1,18 @@
+RedHat/Amazon/Centos Linux - yum install git
+Ubuntu- apt install git
+
+git init
+git log --online
+git checkout FileName (To revert the changes before commit)
+git revert <latestCommitID> (Revert After Commit).
+Vi editor will open,write comment on firstline and save.
+to undo changes on the file Esc+u.
+git stash apply ( to move back stash to working area)
+
+git branch
+git branch Develop
+git checkout develop
+
+git merge <branch name>
+
+
