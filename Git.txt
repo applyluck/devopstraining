@@ -15,4 +15,7 @@ git checkout develop
 
 git merge <branch name>
 
+----------
+added from Github UI.
+
 
