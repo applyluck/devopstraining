@@ -19,7 +19,32 @@ git merge <branch name>
 added from Github UI.
 [[[[[[[[[[[[[
 
-added from cli
+added from
+=======
+::::::::::::
+
+updated on main on github
+---------------------------
+
+made changes from cli on main branch to test fetch on 26 Dec 21.
+------------
+date: 26 Dec 2021
+
+Changes made here to understand git Fetch
+
+------------
+
+Did CherryPick
+
+
+------------
+date: 26 Dec 2021
+
+Changes made here to understand git Fetch
+
+------------
+
+cherry-pick changes on dec26.
 
 ----------------------------
 added from cli on release branch.
